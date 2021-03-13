@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+body{
+	padding: 0;
+	margin: 0;
+}
+img{
+	position: absolute;
+}
+.frog1 {
+	left: 694px;
+  top: 381px;
+}
+.frog2 {
+	left: 86px;
+  top: 98px;}
+.frog3 {
+	left: 790px;
+  top: 59px;}
+.frog4 {
+	left: 138px;
+  top: 381px;}
+.frog5 {
+	left: 390px;
+  top: 142px;}
